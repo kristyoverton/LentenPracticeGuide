@@ -1,0 +1,99 @@
+[ {
+  "id" : "0300",
+  "type" : "INFO",
+  "teaser": "Feed the Hungry",
+  "subteaser" : "This one's kind of obvious, huh",
+  "body": "If you do away with the yoke of oppression,\nwith the pointing finger and malicious talk,\nand if you spend yourselves in behalf of the hungry\nand satisfy the needs of the oppressed,\nthen your light will rise in the darkness,\nand your night will become like the noonday.\nThe LORD will guide you always;\nhe will satisfy your needs in a sun-scorched land\nand will strengthen your frame."
+}, {
+  "id" : "0301",
+  "type": "READ",
+  "day": "1",
+  "teaser": "Ezekiel 16:49",
+  "subteaser": "",
+  "body": "Now this was the sin of your sister Sodom: She and her daughters were arrogant, overfed and unconcerned; they did not help the poor and needy."
+},
+  {
+    "id" : "0302",
+    "type": "REFLECT",
+    "day": "1",
+    "teaser": "Reflect",
+    "subteaser": "",
+    "body": "in these verses how does God view the person who helps the poor?  How does He view those who ignore the poor? What promises does He make to those who spend themselves for the hungry?"
+  },
+  {
+    "id" : "0303",
+    "type": "ACT",
+    "teaser": "Weekly action idea",
+    "subteaser": "",
+    "body": "Identify a way to help with hunger in your neighborhood: perhaps a food bank, perhaps paying off school lunch debts at a local school, perhaps participating in a community garden, inquiring of a local business how to reduce food waste, or checking out volunteer opportunities with meals on wheels."
+  },
+  {
+    "id" : "0304",
+    "type": "ACT",
+    "day" : "3",
+    "teaser": "Fasting from food",
+    "subteaser": "",
+    "body": "Fasting from meat on Fridays is part of the Catholic Lenten tradition. Consider skipping meat or a meal today."
+  },
+  {
+    "id" : "0305",
+    "type": "READ",
+    "day" : "2",
+    "teaser": "Matthew 14",
+    "subteaser": "",
+    "body": "When Jesus heard what had happened, he withdrew by boat privately to a solitary place. Hearing of this, the crowds followed him on foot from the towns. When Jesus landed and saw a large crowd, he had compassion on them and healed their sick. As evening approached, the disciples came to him and said, 'This is a remote place, and it’s already getting late. Send the crowds away, so they can go to the villages and buy themselves some food.'\n\nJesus replied, “They do not need to go away. You give them something to eat."
+  },
+  {
+    "id" : "0306",
+    "type": "READ",
+    "day" : "3",
+    "teaser": "Luke 4",
+    "subteaser": "",
+    "body": "'The Spirit of the Lord is on me,\nbecause he has anointed me\nto proclaim good news to the poor.\nHe has sent me to proclaim freedom for the prisoners\nand recovery of sight for the blind,\nto set the oppressed free,\nto proclaim the year of the Lord’s favor.'\n\nThen he rolled up the scroll, gave it back to the attendant and sat down. The eyes of everyone in the synagogue were fastened on him. He began by saying to them, 'Today this scripture is fulfilled in your hearing.'"
+  },
+  {
+    "id" : "0307",
+    "type": "REFLECT",
+    "day" : "3",
+    "teaser": "Reflect",
+    "subteaser": "",
+    "body": "In what ways did Jesus proclaim good news to the poor?  How can we participate in that ministry?"
+  },
+  {
+    "id" : "0308",
+    "type": "READ",
+    "day" : "4",
+    "teaser": "1 John 3",
+    "subteaser": "",
+    "body": "If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person? Dear children, let us not love with words or speech but with actions and in truth."
+  },{
+  "id" : "0309",
+  "type": "READ",
+  "day" : "5",
+  "teaser": "John 6",
+  "subteaser": "",
+  "body": "Then Jesus declared, 'I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty.'"
+},{
+  "id" : "0310",
+  "type": "REFLECT",
+  "day" : "5",
+  "teaser": "Reflect",
+  "subteaser": "",
+  "body": "How might sharing the bread of life be part of having compassion toward those in need?"
+},
+  {
+    "id" : "0311",
+    "type": "READ",
+    "day" : "6",
+    "teaser": "Proverbs 22",
+    "subteaser": "",
+    "body": "The generous will themselves be blessed,\nfor they share their food with the poor."
+  },{
+  "id" : "0312",
+  "type": "READ",
+  "day" : "7",
+  "teaser": "More Proverbs",
+  "subteaser": "",
+  "body": "Whoever is kind to the poor lends to the LORD,\nand he will reward them for what they have done. (19:17)\n\nThose who give to the poor will lack nothing,\nbut those who close their eyes to them receive many curses. (28:27)"
+}
+]

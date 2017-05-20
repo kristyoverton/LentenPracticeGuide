@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="indigo200">#9fa8da</color>
+    <color name="deepPurple200">#b39ddb</color>
+    <color name="purple200">#ce93d8</color>
+    <color name="purple">#9c27b0</color>
+    <color name="deepPurple">#673ab7</color>
+    <color name="indigo">#3f51b5</color>
+    <color name="purple800">#6a1b9a</color>
+    <color name="deepPurple800">#4527a0</color>
+    <color name="indigo800">#283593</color>
+    <color name="purple900">#4a148c</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

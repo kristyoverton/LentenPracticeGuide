@@ -1,0 +1,24 @@
+[
+  {
+    "id" : "0600",
+    "type" : "INFO",
+    "teaser": "Sabbath Rest",
+    "subteaser" : "The theme for this week",
+    "body": "We've been stretching ourselves and doing a lot of things over the past few weeks. But as we head toward Easter, it's time to consider the sabbath--as it pops up right in the middle of all this justice talk:\n\n'If you keep your feet from breaking the Sabbath\nand from doing as you please on my holy day,\nif you call the Sabbath a delight\nand the Lord’s holy day honorable,\nand if you honor it by not going your own way\nand not doing as you please or speaking idle words,\nthen you will find your joy in the Lord,\nand I will cause you to ride in triumph on the heights of the land\nand to feast on the inheritance of your father Jacob.'\nFor the mouth of the Lord has spoken."
+  },
+  {
+    "id":"0601",
+    "type":"READ",
+    "day":1,
+    "teaser":"",
+    "body":""
+  },
+  {
+    "id":"0602",
+    "type":"REFLECT",
+    "day":2,
+    "teaser":"",
+    "body":""
+  }
+
+]
